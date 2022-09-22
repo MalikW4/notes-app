@@ -1,5 +1,9 @@
 # Scrimba Notes App project with React & NodeJs
 
+## Screenshot
+![notes-screenshot](https://user-images.githubusercontent.com/109000703/191743325-3efb27f6-176c-4375-beb9-d72dada494c6.png)
+
+
 ## Built With
 - HTML5
 - CSS / Flexbox
